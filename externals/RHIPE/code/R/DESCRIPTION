@@ -1,0 +1,48 @@
+Package: Rhipe
+Type: Package
+Title: R and Hadoop Integrated Programming Environment
+Version: 0.73.1
+Date: 2012-08-16
+Author: Saptarshi Guha <saptarshi.guha@gmail.com>
+Maintainer: Jeremiah Rounds  <roundsjeremiah@gmail.com>
+Description: Run MapReduce scripts using R code.
+URL: http://www.rhipe.org
+License: Apache License (== 2.0)
+OS_type: unix
+Depends:
+    methods
+Packaged: Fri Mar  6 17:02:01 2012; jrounds
+Collate:
+    'rhcp.R'
+    'rhdel.R'
+    'rhex.R'
+    'rhget.R'
+    'rhjoin.R'
+    'rhkill.R'
+    'rhload.R'
+    'rhls.R'
+    'rhmv.R'
+    'rhoptions.R'
+    'rhput.R'
+    'rhread.R'
+    'rhsave.image.R'
+    'rhsave.R'
+    'rhstatus.R'
+    'rhsz.R'
+    'rhwrite.R'
+    'dfs.R'
+    'rhmr.R'
+    'zzz.R'
+    'extra.functions.R'
+    'rhwatch.R'
+    'hdfs.getwd.R'
+    'hdfs.setwd.R'
+    'rhabsolute.hdfs.path.R'
+    'rhofolder.R'
+    'rhclean.R'
+    'bashRhipeArchive.R'
+    'rhErrors.R'
+    'rhmap.R'
+    'rhfmt.R'
+    'mapfile.functions.R'
+    'rhJobInfo.R'

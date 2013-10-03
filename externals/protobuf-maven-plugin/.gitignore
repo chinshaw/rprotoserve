@@ -1,0 +1,7 @@
+*.ipr
+*.iws
+*.iml
+target
+.idea
+*.releaseBackup
+release.properties
