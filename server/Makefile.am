@@ -1,0 +1,2 @@
+AUTOMAKE_OPTIONS = foreign
+AUTOMAKE_OPTIONS = src
